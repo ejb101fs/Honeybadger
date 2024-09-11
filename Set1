@@ -1,2 +1,2 @@
 wait("0.2)
-loadstring(game:HttpGet("https://raw.github.com/ejb101fs/Honeybadger.git", true))()
+loadstring(game:HttpGet("https://raw.github.com/ejb101fs/Honeybadger", true))()
