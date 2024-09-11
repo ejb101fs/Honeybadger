@@ -1,4 +1,4 @@
-	game.StarterGui:SetCore("SendNotification", {
+game.StarterGui:SetCore("SendNotification", {
 Title = "Press [Y] To Toggle";
 Text = "By EvenPast7903";
 Duration = 15;
