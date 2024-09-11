@@ -4,7 +4,7 @@ Text = "By EvenPast7903";
 Duration = 15;
 })
 local vu = game:GetService("VirtualUser")
-game:GetService("Virtual User").LocalPlayer.Idled:connect(function()
+game:GetService("Players").LocalPlayer.Idled:connect(function()
    vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
    wait(1)
    vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
