@@ -17,7 +17,7 @@ print("Anti-AFK Ran")
 end
 
 
-local Xcom911 = Instance.new("ScreenGui")
+local ejb101fs = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
 local GUIHead = Instance.new("Frame")
 local borderss = Instance.new("TextLabel")
